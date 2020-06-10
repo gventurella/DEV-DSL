@@ -10,7 +10,7 @@
     "value": "FlightManager"
   }, {
     "name": "ApplicationVersion",
-    "value": "3.0"
+    "value": "3.1"
   }],
   "reference": {
     "fileName": "Training_Delivery_Template.json",
