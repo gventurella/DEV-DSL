@@ -1,1 +1,1 @@
-{"parameters": [{"name": "ReleaseVersion","value": "2.0"},{"name": "ReleaseName","value": "CDI Release"}],"reference": {"fileName": "Training_Delivery_Template.json","fileSource": "OPS-DSL" }}
+{"parameters": [{"name": "ReleaseVersion","value": "3.0"},{"name": "ReleaseName","value": "CDI Release"}],"reference": {"fileName": "Training_Delivery_Template.json","fileSource": "OPS-DSL" }}
