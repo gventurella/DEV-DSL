@@ -1,7 +1,7 @@
 {
   "parameters": [{
     "name": "ReleaseVersion",
-    "value": "1.0"
+    "value": "2.0"
   }, {
     "name": "ReleaseName",
     "value": "CDI Release"
